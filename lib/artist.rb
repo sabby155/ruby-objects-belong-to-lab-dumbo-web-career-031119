@@ -6,13 +6,3 @@ class Artist
   
 end  
 
-
-class Post
-  
-  
-end 
-
-class Author
-  
-  
-end 
